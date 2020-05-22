@@ -1,0 +1,22 @@
+{
+  "name": "SupplyApply",
+  "version": "0.1.0",
+  "summary": "A short description of SupplyApply.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ayushkumar8286/SupplyApply",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ayushkumar8286": "ayush@technoscore.net"
+  },
+  "source": {
+    "git": "https://github.com/ayushkumar8286/SupplyApply.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SupplyApply/Classes/**/*"
+}

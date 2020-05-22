@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SupplyApply_Example' do
+  pod 'SupplyApply', :path => '../'
+
+  target 'SupplyApply_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

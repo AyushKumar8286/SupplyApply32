@@ -1,0 +1,16 @@
+PODS:
+  - SupplyApply (0.1.0)
+
+DEPENDENCIES:
+  - SupplyApply (from `../`)
+
+EXTERNAL SOURCES:
+  SupplyApply:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SupplyApply: d0cfddd57a95677178977643ad107a81a7080a4d
+
+PODFILE CHECKSUM: e4d68663b3532128419e5696650ec4d4266a8ba2
+
+COCOAPODS: 1.9.1

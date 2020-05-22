@@ -1,0 +1,6 @@
+framework module SupplyApply {
+  umbrella header "SupplyApply-umbrella.h"
+
+  export *
+  module * { export * }
+}
